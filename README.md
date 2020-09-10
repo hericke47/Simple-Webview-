@@ -9,4 +9,4 @@
 
 ### Project
 
-<img alt="Project" src="./.github/project.png" height="144px" width="280px"/>
+<img alt="Project" src="./.github/project.png"/>
